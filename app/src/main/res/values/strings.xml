@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_name">HealthyEats</string>
+    <string name="title_home">Home</string>
+    <string name="title_target">Target</string>
+    <string name="title_history">History</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_profile">Profile</string>
+    <string name="tambah_target">Tambah Target</string>
+    <string name="ubah_akg">Ubah akg</string>
+    <string name="sisa_kalori">Sisa Kalori:</string>
+    <string name="konsumsi_kalori">Konsumsi Kalori:</string>
+    <string name="_2700">2700</string>
+    <string name="_0">0</string>
+    <string name="select_image">Pilih Foto Makanan</string>
+    <string name="camera">Kamera</string>
+    <string name="galeri">Galeri</string>
+    <string name="nama_makanan">Nama Makanan</string>
+    <string name="simpan">Simpan</string>
+    <string name="message_login_page">Welcome Back!</string>
+    <string name="message_login_page2">Log in to your account</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="email">Email</string>
+    <string name="name">Username</string>
+    <string name="password">Password</string>
+    <string name="name_hint">enter your name</string>
+    <string name="email_hint">email address</string>
+    <string name="password_hint">password (min. 8 char)</string>
+    <string name="no_account">Do not have an account? Sign up</string>
+    <string name="email_error">Bagian ini harus diisi</string>
+    <string name="password_error">Password tidak sesuai</string>
+    <string name="logout">Log Out</string>
+    <string name="username">Username</string>
+    <string name="title_signup_page">Register</string>
+    <string name="subtitle_signup_page">Create a new account</string>
+    <string name="login_success">Login Berhasil</string>
+    <string name="login_error">Login gagal</string>
+    <string name="register_success">Register Berhasil</string>
+    <string name="register_error">Register gagal</string>
+    <string name="angka_kecukupan_gizi">Angka Kecukupan Gizi</string>
+    <string name="deskripsi_akg">Angka Kecukupan Gizi (AKG) digunakan untuk memberikan target harian dengan tujuan untuk mencapai target berat badan yang diinginkan</string>
+    <string name="tinggi">Tinggi Badan: </string>
+    <string name="berat">Berat Badan: </string>
+    <string name="akg">AKG: </string>
+    <string name="hitung">Hitung</string>
+    <string name="data_gizi_makanan">Data Gizi Makanan</string>
+    <string name="selesai">Selesai</string>
+    <string name="namanya">Nama:</string>
+    <string name="target_kalori">Target Kalori:</string>
+
+    <string-array name="list_goal">
+        <item>Menaikkan Berat Badan</item>
+        <item>Menurunkan Berat Badan</item>
+    </string-array>
+
+    <string-array name="list_activity">
+        <item>Sangat Aktif</item>
+        <item>Aktif</item>
+        <item>Sedikit Aktif</item>
+        <item>Jarang Aktif</item>
+    </string-array>
+
+</resources>
